@@ -1,0 +1,8 @@
+.wordrobe {
+  width: 300px;
+  height: 600px;
+  border: 1px solid black;
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
